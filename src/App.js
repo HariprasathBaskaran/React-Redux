@@ -13,7 +13,7 @@ function App() {
         <CakeContainer />
         <IceCreamContainer />
         <HookCakeContainer />
-        {/* <NewakeContainer /> */}
+        <NewakeContainer />
       </div>
     </Provider>
   );
